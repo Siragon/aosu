@@ -1,0 +1,21 @@
+content branding chrome/content/images/
+
+locale  branding 	en-US chrome/locale/en-US/branding/
+locale  branding	es-VE chrome/locale/es-VE/branding/
+locale  branding	es-AR chrome/locale/es-AR/branding/
+
+locale  siragon	en-US chrome/locale/en-US/
+locale  siragon	es-VE chrome/locale/es-VE/
+locale  siragon	es-AR chrome/locale/es-VE/
+
+content siragon chrome/content/
+skin	siragon	holo_blue_dark/1.0 chrome/skin/holo_blue_dark/
+resource siragon res/
+
+binary-component components/popen.dll abi=WINNT_x86-MSVC
+interfaces components/popen.xpt
+contract  @siragon.com/popen;1?impl=c++ {3ccbb6b2-2d12-4e5d-8d6e-53164c5760cf}
+
+component {49d7b720-5b63-11e2-bcfd-0800200c9a66} components/stdout-clhandler.js
+contract @siragon.com/toolkit/stdout-clh;1 {49d7b720-5b63-11e2-bcfd-0800200c9a66}
+category command-line-handler m-stdout @siragon.com/toolkit/stdout-clh;1
