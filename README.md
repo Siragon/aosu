@@ -77,13 +77,12 @@ Please note that Linux distributors may provide packages for your distribution w
 
 #Getting Síragon AOSU
 
-	To get the latest version of Síragon AOSU, visit the [www.siragon.com][1] and download AOSU to a folder on your PC desktop, .
+To get the latest version of Síragon AOSU, visit the [www.siragon.com][1] and download AOSU to a folder on your PC desktop, .
 
 #Installing Síragon AOSU
 
-	1. Verify that no previous version of Síragon AOSU is installed on PC. If a previous version of Síragon AOSU is installed, please remove before proceeding with AOSU installation.
-	? All Programs > Síragon > AOSU > Uninstall AOSU ? wait for AOSU program to be removed.
-	2. Open Síragon AOSU folder on PC desktop and double click AOSU icon to install program.
+1. Verify that no previous version of Síragon AOSU is installed on PC. If a previous version of Síragon AOSU is installed, please remove before proceeding with AOSU installation. *All Programs > Síragon > AOSU > Uninstall AOSU* wait for AOSU program to be removed.
+2. Open Síragon AOSU folder on PC desktop and double click AOSU icon to install program.
 
 #Firmware Upgrade Procedure
 
@@ -98,6 +97,17 @@ Please note that Linux distributors may provide packages for your distribution w
 	9. Firmware upgrade in process. Do not disconnect the cable from the PC.
 	10. Firmware upgrade complete. Click [Ok]
 
+#L10N
+
+[Transifex][5] is the localization platform for Síragon AOSU.
+
+[**main-program-entities**][3]
+
+![image](https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-entities/chart/image_png)
+
+[**main-program-properties**][4]
+
+![image](https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-properties/chart/image_png)
 
 #Trademark Notices
 
@@ -149,18 +159,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with Síragon AOSU. If not, see [<http://www.gnu.org/licenses/>][2]. 
 
-#L10N
-
-[**main-program-entities**][3]
-
-![image](https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-entities/chart/image_png)
-
-[**main-program-properties**][4]
-
-![image](https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-properties/chart/image_png)
-
 
   [1]: http://www.siragon.com
   [2]: http://www.gnu.org/licenses/
   [3]: https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-entities/
   [4]: https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-properties/
+  [5]: http://www.transifex.com
