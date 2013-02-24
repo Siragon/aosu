@@ -1,0 +1,6 @@
+_site/*
+.DS_Store
+
+test/.DS_Store
+
+*.db
