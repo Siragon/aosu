@@ -1,7 +1,7 @@
 #General information
 
 This README file describes the process for upgrading all the tablet computers of Síragon trademark to new android operating system for mobile devices.
-For assistance or questions relating this process please contact Síragon Social Hub Support at 0500-SIRAGON (7472466) or email at desarrollo03@siragon.com.ve. 
+For assistance or questions relating this process please contact Síragon Social Hub Support at 0500-SIRAGON (7472466) or email at [desarrollo03@siragon.com.ve][6]. 
 Hours of operation: 5 days, from Monday to Friday, 8:30 AM – 6:00 PM.
 
 #Software Enhancement
@@ -77,7 +77,7 @@ Please note that Linux distributors may provide packages for your distribution w
 
 #Getting Síragon AOSU
 
-To get the latest version of Síragon AOSU, visit the [www.siragon.com][1] and download AOSU to a folder on your PC desktop, .
+To get the latest version of Síragon AOSU, visit the [www.siragon.com/ve/siragon_aosu][1] and download AOSU to a folder on your PC desktop, .
 
 #Installing Síragon AOSU
 
@@ -95,11 +95,11 @@ To get the latest version of Síragon AOSU, visit the [www.siragon.com][1] and d
 	7. Select information saving option.
 	8. Click [Start Update]
 	9. Firmware upgrade in process. Do not disconnect the cable from the PC.
-	10. Firmware upgrade complete. Click [Ok]
+	10. Firmware upgrade complete. Click [X]
 
 #L10N
 
-[Transifex][5] is the localization platform for Síragon AOSU.
+[Transifex][5] is the localization platform for Síragon AOSU. Translation workflow and crowdsourcing for technical teams and smart translators.
 
 [**main-program-entities**][3]
 
@@ -165,3 +165,4 @@ along with Síragon AOSU. If not, see [<http://www.gnu.org/licenses/>][2].
   [3]: https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-entities/
   [4]: https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-properties/
   [5]: http://www.transifex.com
+  [6]: mailto:desarrollo03@siragon.com.ve
