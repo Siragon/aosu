@@ -99,13 +99,45 @@ To get the latest version of Síragon AOSU, visit the [www.siragon.com/ve/sirago
 
 #L10N
 
-[Transifex][5] is the localization platform for Síragon AOSU. Translation workflow and crowdsourcing for technical teams and smart translators.
+[Transifex][5] is the localization platform for Síragon AOSU. 
+Translation workflow and crowdsourcing for technical teams and smart translators.
 
-[**main-program-entities**][3]
+[**Main-Program-Entities**][3] Mozilla DTD files
+
+A DTD file contains a list of entities that need to be localized. The entities defined in these files are then used inside the user interface XUL files.
+
+**Associated file extensions:**
+    .dtd
+**i18n type:**
+    DTD
+**Encoding:**
+    UTF-8
+
+**Sample data**
+
+<!ENTITY foo.var1 "Hello">
+<!-- This is a comment -->
+<!ENTITY foo.var2 "How are you?">
+
+
 
 ![image](https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-entities/chart/image_png)
 
-[**main-program-properties**][4]
+[**Main-Program**][4] Mozilla Property Files
+
+You can also translate Mozilla property files with Transifex. These files must be escaped Unicode encoded. In these files contain a number of javaScript properties are assigned with a string value. String resources in Mozilla property files appear in the following form:
+
+The translations downloaded from Transifex will use the source strings for any empty translation strings and will have the relevant entries commented-out.
+
+	property_name = This is a value text
+
+**Associated file extensions:**
+    .properties
+**i18n type:**
+    MOZILLAPROPERTIES
+**Notes:**
+    The files to be uploaded must be escaped Unicode encoded. 
+
 
 ![image](https://www.transifex.com/projects/p/siragon-aosu/resource/main-program-properties/chart/image_png)
 
