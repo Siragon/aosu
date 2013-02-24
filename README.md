@@ -37,7 +37,6 @@ Operating Systems
     Windows 7
     Windows 8
 
-Please note that while the 32-bit and 64-bit versions of Windows Vista, Windows 7 and Windows 8 can be used to run Síragon AOSU, only 32-bit builds of Síragon AOSU are supported at this time.
 Recommended Hardware
 
     Pentium 4 or newer processor that supports SSE2
