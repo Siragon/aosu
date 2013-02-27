@@ -16,7 +16,7 @@ along with Síragon AOSU. If not, see <http://www.gnu.org/licenses/>.
 <!ENTITY  aosu.message1   "Este programa actualizará el sistema operativo de su dispositivo móvil.">
 <!ENTITY  aosu.message2   "La actualización mantendrá sus archivos personales sin cambios. Igual recomendamos hacer un respaldo de su información.">
 <!ENTITY  aosu.message3   "El dispositivo móvil se reiniciará varias veces. Recomendamos evitar su uso mientras dure el proceso de actualización y conectar el cargador.">
-<!ENTITY  aosu.message4   "Tiempo estimado de la actualización: 17 minutos.">
+<!ENTITY  aosu.message4   "El tiempo estimado de la actualización es de 25 minutos.">
 <!ENTITY  aosu.message5   "Presione la tecla BLOQ/ENC.">
 <!ENTITY  aosu.message6   "Arrastre el anillo interno hasta el borde del círculo para desbloquear la pantalla. Dibuje un patrón si la pantalla está protegida por un bloqueo con patrón. Si la pantalla está bloqueada con un PIN o contraseña, escríbalo.">
 
